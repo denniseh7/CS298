@@ -34,7 +34,7 @@ class MyStreamListener(tweepy.StreamListener):
             if "https" not in tweet:
                 output=' '.join(tweet.split())
                 output+='\n'
-                f = open('drugtweet1.txt', 'a')
+                f = open('drugtweet1.txt', 'ab')
                 f.write(output.encode('utf-8'))
                 f.close()
 
