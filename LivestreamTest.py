@@ -31,7 +31,7 @@ class MyStreamListener(tweepy.StreamListener):
         json_data = json.loads(raw_data)
         if(int(json_data['user']['followers_count'])<10001):
             tweet=json_data['text']
-            if "https" not in tweet:
+            if "http" not in tweet:
                 output=' '.join(tweet.split())
                 output+='\n'
                 f = open('drugtweet1.txt', 'ab')
