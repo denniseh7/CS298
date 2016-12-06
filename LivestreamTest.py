@@ -24,13 +24,24 @@ api = tweepy.API(auth)
 api2 = tweepy.API(auth2)
 
 class MyStreamListener(tweepy.StreamListener):
+    def __init__(self):
+        self.count=0
+
     def on_data(self, raw_data):
         json_data = json.loads(raw_data)
         if(int(json_data['user']['followers_count'])<10001):
             tweet=json_data['text']
             if "https" not in tweet:
                 output=' '.join(tweet.split())
-                print(output)
+                output+='\n'
+                f = open('drugtweet1.txt', 'a')
+                f.write(output)
+                f.close()
+
+                self.count += 1
+                if(self.count%500==0):
+                    print(str(self.count)+' '+output)
+
 
     def on_error(self, status_code):
         if status_code == 420:
