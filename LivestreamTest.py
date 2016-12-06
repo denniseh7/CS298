@@ -35,7 +35,7 @@ class MyStreamListener(tweepy.StreamListener):
                 output=' '.join(tweet.split())
                 output+='\n'
                 f = open('drugtweet1.txt', 'a')
-                f.write(output)
+                f.write(output.encode('utf-8'))
                 f.close()
 
                 self.count += 1
