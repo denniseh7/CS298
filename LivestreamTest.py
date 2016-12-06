@@ -1,6 +1,8 @@
 import tweepy
 import json
 
+#livestream from twitter for drug name
+
 consumer_token="bY6PVmVwyn4mOvhpSG9YVJ3B8"
 consumer_secret="Q7EZmDgwi4DWJwkL9jGoRZgDje2YFUqU4T1UZBymqYeXbqGq1H"
 
