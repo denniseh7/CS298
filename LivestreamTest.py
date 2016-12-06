@@ -30,6 +30,7 @@ class MyStreamListener(tweepy.StreamListener):
             tweet=json_data['text']
             if "https" not in tweet:
                 output=' '.join(tweet.split())
+                print(output)
 
     def on_error(self, status_code):
         if status_code == 420:
