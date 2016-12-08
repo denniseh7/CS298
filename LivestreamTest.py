@@ -2,7 +2,7 @@ import tweepy
 import json
 
 #livestream from twitter for drug name
-#
+
 consumer_token="bY6PVmVwyn4mOvhpSG9YVJ3B8"
 consumer_secret="Q7EZmDgwi4DWJwkL9jGoRZgDje2YFUqU4T1UZBymqYeXbqGq1H"
 
@@ -37,7 +37,7 @@ class MyStreamListener(tweepy.StreamListener):
                 if "http" not in tweet:
                     output=' '.join(tweet.split())
                     output+='\n'
-                    f = open('drugtweet2.txt', 'ab')
+                    f = open('drugtweet3.txt', 'ab')
                     f.write(output.encode('utf-8'))
                     f.close()
 
