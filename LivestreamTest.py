@@ -30,20 +30,21 @@ class MyStreamListener(tweepy.StreamListener):
         self.count=0
 
     def on_data(self, raw_data):
-        json_data = json.loads(raw_data)
-        if "user" in json_data:
-            if(int(json_data['user']['followers_count'])<10001):
-                tweet=json_data['text']
-                if "http" not in tweet:
-                    output=' '.join(tweet.split())
-                    output+='\n'
-                    f = open('drugtweet5.txt', 'ab')
-                    f.write(output.encode('utf-8'))
-                    f.close()
+        if raw_data is not None:
+            json_data = json.loads(raw_data)
+            if "user" in json_data:
+                if(int(json_data['user']['followers_count'])<10001):
+                    tweet=json_data['text']
+                    if "http" not in tweet:
+                        output=' '.join(tweet.split())
+                        output+='\n'
+                        f = open('drugtweet6.txt', 'ab')
+                        f.write(output.encode('utf-8'))
+                        f.close()
 
-                    self.count += 1
-                    if(self.count%500==0):
-                        print(str(self.count)+' '+output)
+                        self.count += 1
+                        if(self.count%500==0):
+                            print(str(self.count)+' '+output)
 
 
     def on_error(self, status_code):
