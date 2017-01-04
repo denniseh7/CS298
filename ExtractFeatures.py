@@ -60,7 +60,7 @@ def wnscore(word,tag):
 
 
 counter=0
-with open('traindatasetdrug1.txt',encoding='utf8') as f:
+with open('noduplithiumfilecombined1.txt',encoding='utf8') as f:
     for line in f:
         tweet=lemma(line)
 
@@ -84,9 +84,12 @@ with open('traindatasetdrug1.txt',encoding='utf8') as f:
         processed=processed.strip()
         afscore=afinnscore(processed)
 
-        f = open('testfeaturefiledrug1.txt', 'a')
+        f = open('testfeaturefiledrugcombined1.txt', 'a')
         f.write(str(afscore) + ',' + str(sum) + ',' + processed + '\n')
         f.close()
         counter += 1
+
+        if(counter%1000==0):
+            print(counter)
 
 print("Tweets: " + str(counter))

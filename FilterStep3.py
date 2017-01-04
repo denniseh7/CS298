@@ -1,5 +1,5 @@
 count=0
-with open('noduprtfile4.txt') as f:
+with open('noduprtfilecombined1.txt') as f:
     for line in f:
         line=line.lower()
         if "lithium" not in line:
@@ -9,7 +9,7 @@ with open('noduprtfile4.txt') as f:
                         if "sonata" not in line:
                             if "senna" not in line:
                                 if not (("fish" in line) and ("oil" in line)):
-                                    f = open('noduplithiumfile4.txt', 'a')
+                                    f = open('noduplithiumfilecombined1.txt', 'a')
                                     f.write(line)
                                     f.close()
                                     count+=1

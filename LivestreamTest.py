@@ -38,7 +38,7 @@ class MyStreamListener(tweepy.StreamListener):
                     if "http" not in tweet:
                         output=' '.join(tweet.split())
                         output+='\n'
-                        f = open('drugtweet13.txt', 'ab')
+                        f = open('drugtweet14.txt', 'ab')
                         f.write(output.encode('utf-8'))
                         f.close()
 

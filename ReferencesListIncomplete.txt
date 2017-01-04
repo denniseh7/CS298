@@ -1,0 +1,25 @@
+1) FDA FAERS
+2,3) both papers sjsu
+4) Sentiment analysis
+5) Apache spark
+6) MetaMap
+7) N-grams
+8) Drug discovery in Spark
+9) Tweepy
+10) NLTK
+11) Sentiwordnet
+12) AFINN
+13) MPQA
+14) Bing Liu
+15) UMLS
+16) scikit learn
+17) Mlib
+
+Pyspark
+
+Other projects that mine twitter
+Twitter with spark
+POS tagging
+Preprocessing sentiment analysis
+regex
+drugs.com

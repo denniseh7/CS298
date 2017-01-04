@@ -27,7 +27,7 @@ def lemma(output):
     return tweet
 
 counter=0
-with open('nortfile4.txt',encoding='utf8') as f:
+with open('nortfilecombined1.txt',encoding='utf8') as f:
     for line in f:
         output = line.strip().lower()
         output = re.sub(r"@[A-Za-z0-9_]+|#", ' ', output)  # remove @user, hashtags
@@ -41,7 +41,7 @@ with open('nortfile4.txt',encoding='utf8') as f:
                 if len(latest_tweets)>300:
                     for t in latest_tweets:
                         t+='\n'
-                        f = open('noduprtfile4.txt', 'a')
+                        f = open('noduprtfilecombined1.txt', 'a')
                         f.write(t)
                         f.close()
                     latest_tweets=[]
