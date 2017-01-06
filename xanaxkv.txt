@@ -1,0 +1,2782 @@
+Iodides,2988
+Take,1701
+To,1052
+Patient need for (contextual qualifier),844
+Make - Instruction Imperative,483
+GORAB gene,427
+Negation,387
+Needs,349
+Give - dosing instruction imperative,327
+Emotions,257
+Washington state,225
+M NOS ANTIBODY,221
+Sleep,215
+Somalia,199
+Now (temporal qualifier),180
+Persons,161
+bar unit of measure,150
+Time,139
+Eating,137
+Never (frequency),135
+Probably,135
+S prime,135
+day,133
+Drink (dietary substance),131
+Out (direction),128
+remembering,124
+Then,121
+Call (Instruction),117
+Sodium Cation,116
+Finding,115
+put - instruction imperative,113
+Immune System Findings Domain,113
+Venezuela,112
+Singular,109
+Etiology aspects,109
+Department of Energy,104
+Cessation of life,98
+Chills,98
+Life,96
+Pills,95
+Retained,94
+One,92
+Marijuana Abuse,92
+Speaking (activity),91
+Anxiety Disorders,91
+Beginning,90
+Tobacco smoke,90
+Vision,90
+Bad,87
+gon (grade),86
+Entity,82
+Stop (qualifier value),81
+Last,80
+Falls,78
+Work,77
+Abnormally high,76
+Female dog,75
+LOXL1 gene,75
+Blood group antibody I,74
+Pharmaceutical Preparations,73
+Killing,73
+Offspring,72
+More,70
+Before,68
+Hate,67
+Helping Behavior,66
+utilization qualifier,65
+Night time,63
+Asleep,61
+Anxiety,61
+Love,61
+Right,59
+per year,59
+ToDay brand,58
+Canis familiaris,58
+forgetting,58
+Guyana,57
+MoM,57
+prescription document,55
+Female child,55
+NCKIPSD wt Allele,55
+Does suck,54
+addict,53
+Home environment,53
+Half,52
+Show,52
+friend,52
+See,52
+Backward (qualifier value),51
+Yes (indicator),51
+Struck by,49
+Cool,47
+Miss - Title,45
+devil (idea),45
+Theft,45
+Adjacent,44
+Uridine,44
+Hearing,44
+/hour,44
+Well,43
+Two,43
+Wine,42
+Good,42
+Occur (action),41
+Drug abuse,41
+Actual,41
+Male gender,40
+Always (frequency),40
+Problem,40
+Send (transmission),40
+spells (neurological symptom),39
+Calming,39
+Does throw,38
+wake ups,38
+Over (spatial),38
+TNFSF13B wt Allele,37
+Same,37
+Swearing,36
+Personal appearance,36
+Doctor - Title,36
+Population Mean,36
+Ma+Ta Antibody,35
+Intrinsic drive,34
+Ethanol,34
+Hydroxide Ion,34
+Molly,33
+Psyche structure,32
+Medical Device Break,32
+Disability Assessment for Dementia Questionnaire,31
+game,30
+Play,30
+Person Name,30
+Hispanics,30
+Beer,30
+Best Case Imputation Technique,29
+deity,29
+including back of neck,29
+Daily,29
+U2AF1 wt Allele,29
+Learning,29
+Morning,29
+Family,28
+guessing,28
+Weekly,28
+Whole,28
+Long,28
+Incision and drainage,28
+faking,27
+Papillon-Lefevre Disease,26
+quit,26
+Infant,25
+Holidays,25
+OMG gene,25
+THO tumor staging notation,25
+Sad mood,24
+Mix,24
+Stress,24
+bout,24
+Watchfulness,24
+Cocaine,24
+Refills,24
+wait,24
+All,23
+Choose (action),23
+Use - dosing instruction imperative,23
+spending,23
+Fear (Mental Process),23
+Shopping (activity),23
+Reading (datum presentation),23
+Pain NOS Adverse Event,23
+Coke (solid fuel),23
+Relaxation,23
+Retarded,23
+Write - language ability,22
+Few,22
+PPL gene,22
+Diptera,22
+Protein Turn,22
+Malaise,21
+Pass (indicator),21
+Swallow - dosing instruction imperative,21
+Term (lexical),21
+Removed,21
+SHE gene,21
+Panic Attacks,20
+Money,20
+Together,20
+Small,20
+Comprehension,20
+Quantity,20
+Firstly,20
+Diagnosis Type - Final,20
+Hope (emotion),19
+Couples (persons),19
+tequila,19
+Three,19
+Heart,19
+Changing,19
+Live - Specimen Condition,19
+saw (device),19
+Very,19
+Coffee Flavor,19
+Vodka,18
+Heroin,18
+Twelve,18
+Blood group antigen D,18
+CYTIP gene,18
+Party,18
+Fill,18
+KCNIP3 gene,18
+CCDC103 gene,18
+Mental Depression,18
+Immobile,18
+Drop British,18
+FOXM1 wt Allele,17
+Science of Etiology,17
+Face,17
+Nervous - anatomy qualifier,17
+Mother (person),17
+Garbage,17
+Urine,17
+per month (qualifier value),17
+Lot Number,17
+Indication of (contextual qualifier),17
+CTNNBL1 gene,17
+Sometimes,17
+Precursor B-cell lymphoblastic leukemia,17
+Imma,17
+Codeine,17
+Diet,17
+pre-autophagosomal structure,16
+Slipping,16
+ELANE wt Allele,16
+Incised wound,16
+Tripping,16
+point - UnitsOfMeasure,16
+Telephone Number,16
+Behaviorial Habits,16
+Calculi,16
+New,16
+Stop (Instruction Imperative),16
+Brothers,16
+Felis silvestris,16
+Reminding,16
+Male child,16
+Human body,16
+CDR2 gene,16
+Class,15
+Blow -accident,15
+Cant,15
+Crying,15
+flight (process),15
+Head - Component of Device,15
+Cigarette,15
+Prescribed,15
+RGMB gene,15
+consider,15
+Planned,15
+Pairing Events Domain,15
+Depressed mood,15
+Drowsiness,15
+Alcoholic beverage heavy drinker,15
+/minute,15
+Blame,15
+Respiratory Domain,15
+KCNK6 gene,14
+Open,14
+Plug Device Component,14
+Treatment intent,14
+Does sit,14
+Little's Disease,14
+Edit,14
+jokes,14
+Add - instruction imperative,14
+Early,14
+N not otherwise specified Antibody,14
+Today (temporal qualifier),14
+Failed,14
+Computer Job,14
+PPARGC1B gene,13
+Ive - copepoda,13
+Shot (injury),13
+Woman,13
+Dorsal,13
+Walking (activity),13
+Large,13
+Addictive Behavior,13
+Wild,13
+History of recreational running,13
+Adoptive Immunotherapy,13
+parent,13
+Sister,13
+Free (available (qualifier)),13
+Magnesium Cation,13
+Anger,13
+Catch - Finding of sensory dimension of pain,13
+Blackout - symptom,13
+Hardness,12
+Androgen Receptor Positive,12
+Handle,12
+SURVIVE,12
+Fulfill,12
+Music,12
+Panic,12
+one time,12
+Reading (activity),12
+Ability,12
+Taverns,12
+suggestion,12
+Veterinarian,12
+Eye,12
+Question (inquiry),12
+Smoke,12
+Usage,12
+Fees,12
+Function,11
+hatching,11
+Wash (cleansing action),11
+Multiple Endocrine Neoplasia Type 1,11
+Follow,11
+Moved to,11
+Person Observer,11
+allowing,11
+First (number),11
+Nyquil,11
+Cure (remedy),11
+Guns,11
+Fighting,11
+Bud - plant part,11
+Room,11
+Fasting,11
+Percent normal,11
+Anxiety attack,11
+Rapid,11
+Old,11
+Poor - qualifier,11
+Halitosis,11
+List,10
+Cleaning (activity),10
+Bag device,10
+Tire shape,10
+Coffee,10
+Wit,10
+Double Value Type,10
+Hook,10
+Sacrifice,10
+K Prime,10
+Protective cup,10
+Complete,10
+Familial Idiopathic,10
+Stock (in-store merchandise),10
+Binge eating disorder,10
+Married (finding),10
+World,10
+Delayed Release Dosage Form,10
+Male population group,10
+Awake,10
+Stat (do immediately),10
+Possible diagnosis,10
+Ursidae Family,10
+Automobiles,10
+Laughter,10
+Trust (Social Behavior),10
+Past,10
+idiot,10
+Accept - Source type,10
+Food,9
+Whisky,9
+Shake,9
+Pack (physical object),9
+Honey Flavor,9
+Withdraw (activity),9
+Trial Arms Domain,9
+bottle - unit dose,9
+NUMB gene,9
+Supper,9
+In addition to,9
+Bedtime (qualifier value),9
+Does play,9
+M+ (tumor staging),9
+Obstructed,9
+Exist,9
+Caucasoid Race,9
+Calinaga buddha,9
+DELIVER (Dietary Supplement),9
+Acids,9
+sobriety,9
+Relaxed,9
+Withdrawal (dysfunction),9
+Per Billion,9
+Pizza,9
+Most,9
+Bale out,9
+repulsion,9
+Script,9
+weekend,8
+Response (statement),8
+wife - RoleCode,8
+Text Line,8
+bit - unit of measure,8
+Once - dosing instruction fragment,8
+Update,8
+Tired,8
+Lysergic acid diethylamide measurement,8
+Father - courtesy title,8
+care activity,8
+Dietary Lead,8
+Movie,8
+Bore (qualifier value),8
+Practice Experience,8
+Happiness,8
+Screaming,8
+Drivers of Vehicles,8
+Easy,8
+Relate - vinyl resin,8
+Place - dosing instruction imperative,8
+Since,8
+Anatomic Plane,8
+distilled alcoholic beverage,8
+Frequent,8
+Current (present time),8
+Displacement of abomasum,8
+Serious,8
+Identifier,8
+Auditory Perception,8
+Block (unit of measure),8
+Acute alcoholic intoxication,8
+Closed,8
+Creation,8
+Hold - dosing instruction fragment,8
+Count,8
+Future,8
+Crack,8
+Full,8
+Greater,8
+Side,8
+Following,8
+Records,8
+Board (committee),8
+Cup - unit of measure,8
+Breakfast,8
+On (qualifier value),8
+ZNF699 gene,8
+Household shower,7
+Feeding patient,7
+cousin - RoleCode,7
+Medicine,7
+Post-Traumatic Stress Disorder,7
+Effect,7
+hours of sleep,7
+Prices,7
+Readiness,7
+control substance,7
+Less Than or Equal to,7
+Regret,7
+LRPAP1 gene,7
+Finish - dosing instruction imperative,7
+Hot sensation quality,7
+Dyslexia,7
+Able (finding),7
+Post,7
+Living Alone,7
+Organization Name Type - Legal,7
+pay,7
+Bathing,7
+Weak,7
+Obese build,7
+Advil,7
+Therapeutic procedure,7
+Hanging,7
+Candy,7
+Checking (action),7
+USP9X wt Allele,7
+Schedule (document type),7
+election,7
+Present,7
+Failure (biologic function),7
+Females,7
+Esthesia,7
+Ingestion,7
+Entire,7
+roommate,7
+C1QTNF5 gene,7
+Extrinsic,7
+Immediate,7
+husband - RoleCode,7
+Brain,7
+Lock - Remote control command,7
+Weather,7
+Barbados,7
+Floor - story of building,7
+2'-azino-di-(3-ethylbenzothiazoline)-6-sulfonic acid,7
+Young,7
+T prime,7
+5-methyltetrahydrofolate-homocysteine S-methyltransferase activity,7
+Ions,7
+Oral cavity,7
+RALBP1 wt Allele,7
+Rain,7
+Books,6
+Humulus lupulus,6
+Type - attribute,6
+TNFRSF10C gene,6
+Act Code - General,6
+Fine - adjective,6
+Small penis,6
+Four,6
+Including (qualifier),6
+Five,6
+Bowling (activity),6
+On waking-temporal period,6
+butyl phosphorotrithioate,6
+Sum,6
+Percocet,6
+Late,6
+Teacher,6
+phosphoribosylanthranilate isomerase,6
+Tooth structure,6
+Orange (color),6
+Seasons,6
+Deletion (action),6
+Worried,6
+Psychiatrist,6
+Hypesthesia,6
+bite injury,6
+Drowning,6
+Mexican,6
+hand - unit of measure,6
+Distal intermedial ridge of tibia,6
+etc.,6
+Trap medical device,6
+Loudness,6
+Songs,6
+Order (arrangement),6
+House (environment),6
+Napping,6
+Hunger,6
+Boyfriend,6
+Hispanic Americans,6
+Judge,6
+Continuous,6
+Exposure Domain,6
+Abnormally low (qualifier value),6
+Project,6
+Cocktail,6
+apparently,6
+Less Than,6
+Affect (mental function),6
+Homo sapiens,6
+Gross (qualifier value),6
+African swine fever,6
+Blood Clot,6
+Animal hide,6
+Yoga (philosophy),6
+Wound Healing,6
+Homosexuals,6
+Antidepressive Agents,6
+For which was done,6
+Breaking down,6
+Decision,6
+Dissolve - RouteOfAdministration,6
+Hair,6
+Ampere per Meter,6
+Company (organization),6
+Daughter,6
+Blurred vision,6
+Onset of illness,6
+Comatose,6
+Induce (action),6
+Unemployment,6
+Dosage,6
+President of the United States of America,6
+Hat - Headwear,6
+Americas,6
+Animals,6
+Phantom Limb Syndrome,6
+mostly,6
+History of allergies,6
+Loneliness,6
+Gambling,5
+endogenous pyrogen,5
+Tissue damage,5
+Event Qualification - Overdose,5
+Histrionic Personality Disorder,5
+Rx therapy,5
+Thinking and speaking disturbances,5
+Entire duct,5
+Tea,5
+Nightmares,5
+Professor,5
+Light color,5
+Delusions,5
+News [Publication Type],5
+coworker,5
+Hangover from any Alcohol or Other Drugs substance,5
+Door,5
+Release - action (qualifier value),5
+Speech,5
+Clear,5
+Upper case Roman letter O,5
+College,5
+Spot (mark),5
+Expiration,5
+Bipolar,5
+Aunt,5
+Entire ear,5
+Authorization Mode - Mail,5
+Thallium,5
+Budorcas taxicolor,5
+Infertility,5
+Red wine,5
+Muscle Cramp,5
+British Mile,5
+Psychiatric problem,5
+Conversation,5
+Back,5
+Scar Tissue,5
+Coitus,5
+Recommendation,5
+Mechanical force,5
+Desiccation,5
+Depth,5
+Tumor stage,5
+Racial group,5
+Act Code - travel,5
+TSACC gene,5
+Computers,5
+Difficulty,5
+Crushing procedure,5
+Comparison,5
+Promotion (action),5
+Sharing (Social Behavior),5
+Pillow,5
+At,5
+Laces,5
+School,5
+Documents,5
+promise,5
+Machine,5
+Wheel Device Component,5
+Insurance,5
+Fan Device Component,5
+Medical Device Material Split,5
+Study,5
+Seizure Adverse Event,5
+Mari type,5
+Flat shape,5
+Educational process of instructing,5
+Million,5
+Obsessive-Compulsive Disorder,5
+BCL2L10 gene,5
+Coloring Excipient,5
+Taste Perception,5
+Alcohol consumption,5
+Preposition For,5
+Correct (qualifier),5
+Triggered by,5
+Foot,5
+Medical Examination,5
+Polydactyly of toes,5
+Memory,5
+Combine,5
+Suicidal,5
+Traverse,5
+dress garment,5
+Breathing abnormally deep,5
+Autistic Disorder,5
+Attempt,5
+Carrying,5
+Email,5
+Tests (qualifier value),5
+Fire as a heat source,5
+Tattoo,5
+Ice,5
+Self,5
+Marijuana leaf,5
+Moon,5
+Blue color,5
+Commit Operation,5
+Tear Shape,5
+Appropriate,5
+Nerve Tissue,5
+Clothing,5
+FICD gene,5
+videocassette,5
+CHST15 gene,5
+Replace,5
+Reaching,5
+Redness,5
+Biomedical tape,5
+Rush,5
+Agree,5
+FRY gene,5
+general,5
+Set scale,5
+Storage,5
+Ross - Pharmaceutical Company,5
+Grade,5
+Juice,5
+Does stand,5
+Rule (guideline),5
+illegal,5
+error,5
+Ball Device Component,4
+Drug addict,4
+Dispenser,4
+opinion,4
+CFLAR gene,4
+Mood:-:Point in time:^Patient:-,4
+Internet,4
+Vine,4
+Hyperventilation,4
+recreational activity,4
+reality,4
+account - ActClass,4
+Melting,4
+Slow,4
+Search - action,4
+Water,4
+Left,4
+Dangerousness,4
+distal ileal obstruction syndrome,4
+Stick Dosing Unit,4
+Depressive disorder,4
+Has imaginary friend,4
+Ideal,4
+Links List,4
+Young chicken,4
+Numerous,4
+Within,4
+Quaalude,4
+Push - dosing instruction imperative,4
+Line Specimen,4
+Load - Remote control command,4
+Meal (occasion for eating),4
+Cautionary Warning,4
+Maintenance,4
+Others - Allergy,4
+Recreational Drugs,4
+Toxic Epidermal Necrolysis,4
+Date in time,4
+Recovering from,4
+Providing (action),4
+Advice,4
+Jealousy,4
+Member Organization,4
+Clown,4
+Drawings (art),4
+In-law (relative),4
+Equus asinus asinus (male) X Equus caballus,4
+Alarm System Device Component,4
+Sales - occupational activity,4
+Rehabilitation therapy,4
+supply aspects,4
+Friday,4
+Withdrawal Symptoms,4
+Afternoon,4
+Distal,4
+Jacket,4
+Son (person),4
+manager,4
+Tablet Dosing Unit,4
+TNFRSF10B gene,4
+Concept Relationship,4
+Course,4
+CHROMOSOME 3-LINKED,4
+Tip Device Component,4
+Target,4
+Denial (Psychology),4
+Discover,4
+Licking,4
+Dab fish,4
+3-bromoacetoxyandrostan-17-one,4
+Neighbor,4
+CORO1A gene,4
+Bleach,4
+Hallucinations,4
+Purpose,4
+Contraceptive methods,4
+respect,4
+Road,4
+Blindness both eyes NOS (disorder),4
+Girlfriend,4
+Blackout - suspension of service,4
+Experimental Result,4
+Patients,4
+Connect,4
+Massive,4
+Qualitative form,4
+Monday,4
+Smear - instruction imperative,4
+Slide (glass microscope),4
+Physical findings,4
+Young housecat,4
+Cerebrovascular accident,4
+Dog family,4
+Nothing,4
+Starve,4
+Gases,4
+Anas platyrhynchos,4
+Guilt,4
+type of day,4
+Increase,4
+Peach Preparation,4
+Lanugo (invertebrate),4
+Reminder,4
+Relieving,4
+commercial,4
+Emotional distress,4
+Ring device,4
+Do (activity),4
+Tissue Specimen Code,4
+Air (substance),4
+Feces,4
+Before sleeping,4
+Mixed (qualifier value),4
+credit card,4
+Drug Evaluation,4
+Tebi,4
+Character String Data Type,4
+Enteral Route of Drug Administration,4
+Flow,4
+Singapore,4
+Non-Prescription,4
+Glass Packaging Device,4
+Masturbation,4
+Paranoia,4
+Ambiguous Genitalia,4
+Jack Device Component,4
+Straight,4
+ignored,4
+Randomization,4
+Earache,4
+Triticum spelta,4
+Preparation,4
+Drama,4
+Chop (action),4
+neodymium pyrocatechin disulfonate,4
+Negative,4
+Coping Behavior,4
+Participation Type - witness,4
+Snacks,4
+Flight - Registered Nurse - NUCCProviderCodes,4
+Freckles,4
+Bromus secalinus,3
+Tongue,3
+Resolution,3
+ME1 gene,3
+Unable to talk,3
+Languages,3
+Team,3
+HEBP2 gene,3
+Cyanides,3
+depend,3
+Choice Behavior,3
+Pharmacist,3
+Desmoplastic infantile ganglioglioma,3
+True,3
+Bulimia,3
+Head up,3
+Shaving - surgical procedure,3
+Murder,3
+Chocolate,3
+Choked on,3
+Narcolepsy,3
+Focal,3
+Genus Pica,3
+Pruritus,3
+Does pull,3
+Pre-release version of a computer program,3
+Planets,3
+Acquisition (action),3
+End,3
+Noodles,3
+Quiet,3
+Services,3
+Opioids,3
+Shirt,3
+Track (course),3
+KRT8 gene,3
+Administration Method - Chew,3
+Martini,3
+Tension,3
+Top (position),3
+Near,3
+Stressful,3
+Age,3
+Sniff,3
+Savage,3
+African race,3
+Apply (instruction),3
+SLC14A1 gene,3
+product,3
+Altretamine,3
+Use of,3
+Sprinkle,3
+Surgery specialty,3
+Myocardial Infarction,3
+Referring,3
+cash,3
+Button,3
+Laxatives,3
+Airports,3
+Organism Strain,3
+Prescription Drugs,3
+Landing,3
+Gold,3
+Complicated,3
+Young dog,3
+Before values,3
+Twice (Numerical Qualifier),3
+Liquid Specimen,3
+Precaution Code - Confused,3
+objective (goal),3
+Green color,3
+Does skip,3
+Kleptomania,3
+Lunch,3
+Allogeneic Hematopoietic Stem Cell Transplantation,3
+Autumn,3
+Introduces,3
+Chickens,3
+Balanced - adjective,3
+little i NOS,3
+Confidentiality - celebrity,3
+device,3
+Slurred speech,3
+Soup,3
+Alexi,3
+classical example,3
+Substance abuse problem,3
+gram,3
+Shock,3
+blending,3
+Presentation,3
+Spray (action),3
+Central,3
+Vegan diet,3
+IGDCC4 gene,3
+Edema,3
+Menopause,3
+Seven,3
+Shrinking,3
+warming process,3
+Mental Suffering,3
+Child,3
+High dose,3
+Red Cell Ghost,3
+Channel,3
+Sighing respiration,3
+Data types - String,3
+Rehabilitation Centers,3
+Customer,3
+Depression motion,3
+Giraffa camelopardalis,3
+Serinus canaria,3
+Beak,3
+Approach,3
+Tobacco smoking behavior,3
+Felis catus,3
+Migraine Disorders,3
+Summer,3
+Row,3
+Optical density units,3
+Switch Device Component,3
+Rest,3
+Levels (qualifier value),3
+PTPN14 gene,3
+Agitation,3
+Manufactured ski,3
+Quotation,3
+Office,3
+Chihuahua superbreed,3
+Police,3
+Options,3
+NAA50 gene,3
+Manufactured football,3
+Yellow color,3
+Anthropological Culture,3
+Pepper - Condiment,3
+Punch,3
+Level of anxiety,3
+Alcohols,3
+Step (specific stage),3
+United States Food and Drug Administration,3
+Projectile vomiting,3
+Device Tracking and Disposition Domain,3
+Bum,3
+Inject - dosing instruction imperative,3
+Nature,3
+Growth,3
+Monster (disorder),3
+CLOCK gene,3
+Temper tantrum,3
+Charge (electrical),3
+Tranquilizing Agents,3
+Bees,3
+Vacation,3
+Street address,3
+Opiates,3
+Event,3
+User Group,3
+Wood material,3
+Sleeplessness,3
+Tums,3
+Cigarette Dosage Form,3
+Header of a document,3
+With shape,3
+Knock-out,3
+MIA gene,3
+Cake,3
+Statistical mean,3
+Bourbon,3
+Tuesday,3
+Entire stomach,3
+Methylenedioxymethamphetamine measurement,3
+Cattle,3
+Widening,3
+Adolescent (age group),3
+Fresh (qualifier value),3
+Short-Term,3
+Cannabis sativa plant,3
+shared attribute,3
+Auto,3
+Mimosa,3
+defend,3
+Comfort,3
+Hospitals,3
+Natural,3
+EGG NOG FLAVORING,3
+SLA gene,3
+Physics,3
+trend,3
+unwanted hair,3
+doubt,3
+Benzodiazepines,3
+Cereals,3
+Paint,3
+Dark color,3
+Address,3
+Dutch Population,3
+Neurotics,3
+Chromosomes,3
+Has focus,3
+Concern,3
+peripheral blood,3
+Unmarried,3
+Premature Ejaculation,3
+English race,3
+Heron (bird),3
+Chance,3
+faith,3
+therapist,3
+Deny (action),3
+Thyroid Gland Spindle Cell Tumor with Thymus-Like Differentiation,3
+Faulty,3
+Voting,3
+Chest,3
+sleeping pill,3
+Punctate inner choroidopathy,3
+Salvia,3
+Adverse effects,3
+Muscle twitch,3
+Numbers,3
+Paper Authorization,3
+Containing (qualifier),3
+Exercise Pain Management,3
+tartrate-resistant acid phosphatase,3
+MST3- AND SOK1-RELATED KINASE GENE,3
+color additive,3
+Case (situation),3
+Drug Tolerance,3
+Generations,3
+Clumsiness,3
+Organized,3
+Black race,3
+Anus,2
+Appearance,2
+Hotel,2
+Plan B,2
+International,2
+Barking (observable entity),2
+Graduate (person),2
+Six,2
+site-specific telomere resolvase activity,2
+Heart beat,2
+Epidemic,2
+Only - dosing instruction fragment,2
+Texas,2
+Lectures,2
+Shame,2
+PAC-I,2
+Printing,2
+bong,2
+Meleagris gallopavo,2
+Interested,2
+Inspiration function,2
+Entire tongue,2
+Sunlight,2
+Mental disorders,2
+Strong,2
+Catatonia,2
+CFB gene,2
+Casts body substance,2
+Medical,2
+Semester,2
+chain of objects,2
+bucking,2
+Mild (qualifier value),2
+Park (environment),2
+ABCC8 gene,2
+Health,2
+Bell Device Component,2
+free drug fraction,2
+Advance,2
+coolers,2
+Dispense,2
+Distribution,2
+Nausea,2
+khat,2
+Blanket,2
+Pressure - action,2
+Memory Loss,2
+Cutoff,2
+Waking,2
+Statement,2
+earnings,2
+Very Much,2
+History of previous events,2
+Stalk - anatomical structure,2
+Caption,2
+Writing (occupation or discipline),2
+physiological aspects,2
+Investigates,2
+Nose,2
+Tapering - action,2
+ALTERNATIVE GENE PRODUCT ENCODED BY THE XL EXON,2
+Domestic Sheep,2
+Card (document),2
+human,2
+Kinked,2
+Obstetric Delivery,2
+Along edge (qualifier value),2
+Toys,2
+Shop (environment),2
+Winter,2
+Arrested progression,2
+TYRO3 gene,2
+user - Facility type,2
+NEFL gene,2
+FAVOR,2
+Salts,2
+Relevance,2
+Above average intellect,2
+Avoidant Personality Disorder,2
+Thursday,2
+Main,2
+Steady,2
+Suicide,2
+Smiles (finding),2
+luck,2
+Immunoconjugates,2
+Literal,2
+Dermatofibrosis lenticularis disseminata,2
+Mammography,2
+too early,2
+second (number),2
+Diarrhea Adverse Event,2
+Coach,2
+Study Day,2
+Sneezing,2
+Episode of,2
+Chicago,2
+Geographic state,2
+Amyloid Beta Precursor Protein Measurement,2
+vice,2
+Braces-Orthopedic appliances,2
+Meetings,2
+capsule (pharmacologic),2
+Ice Cream,2
+Pharmacy (field),2
+Masks,2
+Stretching exercises,2
+GJA1 gene,2
+Level I,2
+Drainage procedure,2
+Motor bus,2
+Medical Device Emits Smoke,2
+Systolic anterior movement of mitral valve,2
+aminosalicylic acid,2
+Hiccup,2
+Discus,2
+Dreams,2
+Drinking function,2
+Loss,2
+Does talk,2
+Government,2
+RIPK2 gene,2
+Before - dosing instruction fragment,2
+Oersted (unit of measure),2
+Total,2
+DNA Microarray Chip,2
+Hemorrhagic,2
+Worst,2
+SPTBN1 gene,2
+SLAMF1 gene,2
+Alcoholic blackout,2
+Wig,2
+Attitude,2
+Rabbi,2
+Voice,2
+Crime Act,2
+Attention deficit hyperactivity disorder,2
+Middle,2
+Device Component System,2
+best (quality),2
+Breath,2
+Cousin,2
+Authorization Mode - In Person,2
+Wallace Brand 3 of Carisoprodol,2
+Oral region,2
+Percent (qualifier value),2
+grasp,2
+KLHDC10 gene,2
+WAPAL gene,2
+Beans (food),2
+Moist,2
+Lydia,2
+Julia <Juliidae>,2
+CYP1A1 wt Allele,2
+Luvox,2
+month,2
+Scientific Equipment,2
+5-triazine,2
+Home manager (housewife),2
+vending machine,2
+Inbred NOD,2
+Meditation Therapy,2
+Chronic,2
+PRESCRIPTION REFILL,2
+Lemon - dietary,2
+Alcoholics,2
+Potato,2
+Stella (Bacteria),2
+Tightness sensation quality,2
+year,2
+Beaver Indians,2
+Attending (action),2
+Mr. - Title,2
+Roof physical object,2
+Watching,2
+Patient currently pregnant,2
+Shoot,2
+American Medical Association,2
+Hoist device,2
+unspecified,2
+Cheese,2
+Rum Flavor,2
+Headphone Device Component,2
+Window Device Component,2
+Cover Device Component,2
+Prisons,2
+Seizures,2
+Manufactured basketball,2
+Conversion disorder,2
+Severe (severity modifier),2
+Wedding,2
+Repeat,2
+Brown color,2
+Symptom aggravating factors,2
+Dancing,2
+Right posterior,2
+mil unit of measure,2
+expense,2
+Recipes,2
+Escape (mental process),2
+Chromosome band,2
+Cod,2
+Major,2
+Paintings,2
+Hobbies,2
+Power (Psychology),2
+WRNIP1 gene,2
+Pickle,2
+hookah,2
+Keyboard Device Component,2
+Upper,2
+Death (finding),2
+Phase,2
+Slightly,2
+Life Style,2
+business career,2
+Correction (change),2
+lover,2
+Interleukins,2
+Fantasy,2
+Possibly Related to Intervention,2
+Drooling,2
+Proline,2
+Human Anti-Human Antibody,2
+Personnel Selection,2
+Flavoring,2
+CDE protocol-cyclophosphamide/doxorubicin/etoposide,2
+cancelled action,2
+Match,2
+POLE gene,2
+Loneliness assessment,2
+Electrical Current,2
+Speed (motion),2
+Victim of neglect (finding),2
+perquisite,2
+brain cell,2
+NOS,2
+Family member,2
+Amaze,2
+Joints,2
+One Thousand,2
+Painless,2
+MTDH gene,2
+Relative,2
+Soul,2
+Part Dosing Unit,2
+Equus asinus,2
+TH gene,2
+White color,2
+Picture,2
+Spices,2
+Prediction,2
+Dust,2
+Gorilla <Western Gorilla>,2
+Context,2
+Clarify,2
+Mild Mental Retardation,2
+Funds,2
+Fireworks,2
+former AOD dependent,2
+Fish (food),2
+Gin,2
+SCGN gene,2
+Hole Finding,2
+Family Elephantidae (organism),2
+Organic,2
+Taught,2
+Falkland Islands,2
+Emotional,2
+Gari (substance),2
+Hemorrhage,2
+IK gene,2
+scotch,2
+Scab,2
+Pudding,2
+Red color,2
+Manuals as Topic,2
+Space - property,2
+Running (physical activity),2
+Evaluation,2
+Caucasians,2
+Faggot,2
+Data Port,2
+liter/second,2
+Removal by grinding,2
+Zzzquil,2
+Assault by stabbing,2
+Pounds,2
+CLEC10A gene,2
+Ships,2
+Downward,2
+Accidents,2
+Substance,2
+Nurses,2
+In prison (finding),2
+finesse,2
+Midnight,2
+Sedatives,2
+Church,2
+Rallidae,2
+Audio Media,2
+Bellis (plant),2
+Hair growth,2
+Fog,2
+Sake - alcoholic beverage,2
+Vitamins,2
+from knee to ankle,2
+natural daughter - RoleCode,2
+Loose,2
+Aka <sponge>,2
+Proxy,2
+silence,2
+Paracentesis,2
+Body Weight decreased,2
+Equal,2
+Logical Condition,2
+Insomnia Adverse Event,2
+Ally,2
+Essential,2
+PSD gene,2
+Iso,2
+Entire trochlear nerve,2
+Amino Acid [EPC],2
+Physical assessment findings,2
+Attention,2
+Anorexia,2
+organizational,2
+Interaction,2
+Wealthy,2
+Light (qualifier),2
+American,2
+Cold Sensation,2
+Revision,2
+Reduced,2
+Confidentiality - sensitive,2
+Chewing,2
+Mountain,2
+Popping sensation quality,2
+DOPE,2
+Disintegration (morphologic abnormality),2
+FML,2
+Associated with,2
+Direct type of relationship,2
+Suppressed,2
+Entire toe,2
+Primary malignant neoplasm,2
+School bus,2
+Headache,2
+Worker,2
+Spark Associated with Medical Device,2
+dollar,2
+Special,2
+Event Log,2
+Burn Specimen,2
+Ginger extract,2
+Residential flat,2
+Propaganda,2
+Design,2
+FSCN1 gene,2
+PICK1 gene,2
+Carnation,2
+Risk,2
+MALL gene,2
+Published Interview,2
+Theatre,2
+Sleep Paralysis,2
+Crab - dietary,2
+Forcible intercourse,2
+Weight Loss Adverse Event,2
+Toxic Shock Syndrome,2
+Feeling hopeless,2
+VIOLENT,2
+Pfizer,2
+Entire lip,2
+Body Site Modifier - Lower,2
+TOAST Classification,2
+Flatulence,2
+Black color,2
+Drug Packaging,2
+Better,2
+Simple,2
+Visit,2
+Socks,2
+VAPE protocol,2
+PREVENT (product),2
+Sound - physical agent,2
+Cost aspects,2
+Fluorides,2
+Purple,2
+and Bereavement,2
+Graph Edge,2
+Noon,1
+Anesthesiology,1
+Sleep Deprivation,1
+Cider,1
+Philadelphia,1
+Kind of quantity - Equilibrium,1
+Status,1
+Neighborhood,1
+Injection of therapeutic agent,1
+Calendar - CodeSystem,1
+Tape Device Component,1
+Selective Serotonin Reuptake Inhibitors,1
+Lactates,1
+Confirmed by,1
+Arrow,1
+Steroids,1
+Detected (finding),1
+Measurement,1
+Nitrous Oxide,1
+Whooping respiration,1
+rave,1
+Reaction:Finding:Point in time:^Patient:Nominal,1
+Intersection of set of elements,1
+nonsense,1
+TNFSF12 gene,1
+Lobotomy,1
+Thick,1
+Dropouts,1
+Pug,1
+Lost,1
+device (physical object),1
+Anti-Anxiety Agents,1
+Epithelial cell count (procedure),1
+Lima,1
+Aepyceros melampus,1
+Specific qualifier value,1
+Poetry,1
+Lethargy,1
+Access,1
+comedy,1
+Cricket - sport,1
+Rapid shallow breathing,1
+Suction Tips,1
+Pump Device Component,1
+Logic,1
+Chemical Imbalance,1
+CALR gene,1
+Very Good,1
+Heavy sensation quality,1
+Inferior,1
+Teaching principal,1
+Third degree,1
+Snow (substance),1
+UPP1 gene,1
+Kit device,1
+Psychotic Disorders,1
+Tolerance to alcohol,1
+Predominantly Inattentive Type,1
+Shooting sensation quality,1
+Unite resin,1
+Help document,1
+Chile,1
+Automobile Driving,1
+Upload,1
+repeal,1
+Distress,1
+Editions,1
+Law enforcement arrest,1
+Gastroesophageal reflux disease,1
+Empathy,1
+Zea mays,1
+Miller,1
+Dribbling of urine,1
+Orthopedic Cast,1
+sangria,1
+arylsulfate sulfotransferase activity,1
+Rage,1
+GBA wt Allele,1
+Current drinker,1
+Article,1
+flight attendant,1
+Turnover technique,1
+Methamphetamine Measurement,1
+Middle name,1
+manic episode,1
+NCKIPSD gene,1
+Inflammation,1
+Entire hand,1
+Smell Perception,1
+Molecular Weight,1
+Unknown,1
+Interview,1
+Short-term,1
+Safe Sex,1
+Definitely Related to Intervention,1
+Limanda limanda,1
+carmustine/cytarabine/etoposide/melphalan regimen,1
+Visit Name,1
+Indifferent mood,1
+Third,1
+Pack unit,1
+Brittany spaniel,1
+medicine cabinets,1
+Rewards,1
+Thailand,1
+Counsel - legal,1
+Hole in Medical Device Material,1
+Rating (action),1
+Reindeer,1
+SGMS1 gene,1
+life event,1
+Flaxseed extract,1
+Neck problem,1
+drug culture,1
+Xenia <Cnidaria>,1
+View,1
+Histamine,1
+Autoimmune Diseases,1
+Clinical,1
+% volume (qualifier value),1
+Chemotherapy Regimen,1
+Induced abortion (procedure),1
+Specimen Source Codes - Wen,1
+Irritable Bowel Syndrome,1
+Return to,1
+professional occupation status,1
+Screening - procedure intent,1
+Treated with,1
+Stimulant,1
+Camila,1
+Cuba,1
+Extreme,1
+Firefighters,1
+major vault protein,1
+Feeling unhappy,1
+Event Qualification - Misuse,1
+Wednesday,1
+Bubble Gum Flavor,1
+photograph,1
+Accomplishment,1
+Autobiography,1
+Victoria Genus,1
+Mullein Preparation,1
+Humor therapy,1
+Entry (data),1
+Drug Overdose,1
+Saturday,1
+Urban - qualifier,1
+Craving,1
+Newts,1
+Bomb device,1
+exchange,1
+Hypotension,1
+Root beer,1
+PLEKHG5 gene,1
+Cynodon dactylon,1
+Speak - language ability,1
+Frontotemporal dementia,1
+Cruel,1
+Medical Device Burst,1
+Gauges,1
+With intensity,1
+Revealed,1
+Accurate (qualifier),1
+Fuel,1
+Polar Bears,1
+Skin tag,1
+Overcome,1
+Town environment,1
+Investments,1
+Pore,1
+Fluorouracil,1
+CONGENITAL,1
+Treatment Step,1
+Greta,1
+Relationships,1
+en masse Movement,1
+Taiwan,1
+Seeding,1
+Pathological Dilatation,1
+Anser species,1
+Van (physical object),1
+Esthetics (discipline),1
+Score,1
+Muscular stiffness,1
+Allium porrum,1
+Narcotics,1
+Right eyebrow,1
+Lemon extract,1
+Push-ups,1
+Snakes,1
+Actins,1
+At the end of the day,1
+analysts,1
+Science,1
+Ordained priest,1
+Work-up,1
+Fin,1
+Environment,1
+Unmarried person,1
+Most Recent,1
+wave - physical agent,1
+Manufactured form,1
+Arch of foot,1
+Decade,1
+Responsible to,1
+Marihuana,1
+Cold hands,1
+Western society,1
+schedule IV drugs,1
+Hand gun,1
+Rehabilitation aspects,1
+Loading Technique,1
+Fish-Eye Disease,1
+Entire limb,1
+Yes or No Response,1
+Burger,1
+Customize,1
+And,1
+Cholesterol,1
+counselor,1
+Neck Pain Adverse Event,1
+Table Cell Vertical Align - middle,1
+function,1
+APT compounds,1
+Germany,1
+Back problem,1
+Test Method,1
+Weight Gain,1
+Chaos,1
+Optional,1
+Kissing,1
+Legal Adult,1
+Laboratory observation of character,1
+Cuprous,1
+Social oppression,1
+New York (geographic location),1
+Mercury(1+),1
+Nazis,1
+plastic bags,1
+China,1
+Navajo language,1
+Connector,1
+Olfactory Nerve,1
+Closed comedone (disorder),1
+Slope,1
+Generalized Anxiety Disorder,1
+% live,1
+Arachis hypogaea,1
+CACFD1 gene,1
+Bartender,1
+Abies alba,1
+ISPD gene,1
+activate biological process,1
+event cycle,1
+Trochilidae,1
+middle school students,1
+Potential,1
+Fantasizing,1
+Italians,1
+Anterior,1
+Separate,1
+Visual,1
+Cooking (activity),1
+Dyspepsia,1
+Banana Extract,1
+health care planning,1
+Lymphomatoid Granulomatosis,1
+Hughes Indians,1
+Fingers,1
+Supervisor (occupation),1
+TPI1 wt Allele,1
+Uniform - quality,1
+Punishing,1
+seconds,1
+gastrointestinal gas,1
+Towel,1
+Positioning Attribute,1
+Macrophage-1 Antigen,1
+Disaffection,1
+Precursor T-Cell Lymphoblastic Leukemia-Lymphoma,1
+Reaction,1
+Lora,1
+Pleomorphic Hyalinizing Angiectatic Tumor of Soft Parts,1
+Gasping for breath,1
+Skin drag,1
+Animal mane,1
+bony process,1
+Southeast,1
+Introvert,1
+Expression procedure,1
+Capitalism,1
+Herring (Dietary),1
+Bad trips,1
+Demand (clinical),1
+Instance,1
+childlessness,1
+Foxes,1
+Float,1
+travel,1
+Panthera,1
+knife,1
+Cosmetic procedure,1
+tubing,1
+Symptoms,1
+Tie (garment),1
+Emergencies [Disease/Finding],1
+Long Island race,1
+Acupuncture procedure,1
+aspects of laws,1
+Nation,1
+PNP wt Allele,1
+Yemen (geographic area),1
+Transdermal Patch,1
+Marble,1
+Swimming,1
+Uncle,1
+Beauty,1
+Choline O-Acetyltransferase,1
+Acrylic dental material,1
+Menthol,1
+Bathroom,1
+Water Supply,1
+Brush Device Component,1
+Gasket Device Component,1
+Tripe,1
+Classmate,1
+Lucifer,1
+Mixture,1
+Male,1
+Democracy,1
+Muscle,1
+Claustrophobia,1
+Heartburn acidity,1
+Procure,1
+Knuckling over,1
+Does speak,1
+Rent - ActCode,1
+Blast Cell,1
+Cold Temperature,1
+Gloves,1
+Lateral rostrotemporal auditory cortex,1
+Bread,1
+Dizziness,1
+RELN gene,1
+NOSEBLEED QR KIT,1
+Minimum,1
+Observation Object,1
+String (device),1
+Nun bird,1
+Norco,1
+Intravenous,1
+Carmine,1
+Steel,1
+Tigers,1
+Cranberry preparation,1
+Unintentional,1
+Congress (U.S. Legislature),1
+Protons,1
+bail,1
+Torus,1
+End-stage,1
+Irritable Mood,1
+Barrel Shape,1
+Employee,1
+Keyword,1
+Carbon Monoxide Poisoning,1
+Abandoned,1
+Plants,1
+Seropram,1
+Artificial cardiac pacemaker,1
+Local,1
+sexual fantasy,1
+California,1
+Continuance of life,1
+Surgeon,1
+Beach (environment),1
+Personality inventories,1
+Note (document),1
+Profile (lab procedure),1
+Shouting,1
+Unattractive,1
+laptop,1
+N'-bis(1-adamantyl)ethylenediamine,1
+Coraciidae,1
+Blur,1
+Muslim religion,1
+Sugar-free cola,1
+sympathy,1
+Shoes,1
+Hand,1
+Carbidopa,1
+Hot water,1
+Chocolate cake,1
+Thyroid Gland,1
+Small hand,1
+Fatigue,1
+Plug (physical object),1
+AND DERMATOSIS SYNDROME,1
+presynaptic cytoskeletal matrix assembled at active zones,1
+5-(carboxyamino)imidazole ribonucleotide mutase activity,1
+Alcoholic Intoxication,1
+Zone,1
+Anger management training,1
+Dedications,1
+nephew - RoleCode,1
+Photopsia,1
+TAC Regimen,1
+Engineering,1
+Server (computer),1
+AP5M1 gene,1
+Psychological addiction,1
+Skate (dietary),1
+alcohol problem,1
+Israel,1
+Soil,1
+Fishes,1
+Marijuana Smoking,1
+Caffeine,1
+cent,1
+Anterior thoracic region,1
+Coal,1
+Hearing examination finding,1
+Arthritis Pain,1
+Back Pain Adverse Event,1
+prohibition (general),1
+Repository of Specimens and Reagents,1
+Presenile dementia,1
+Lethal,1
+Total abdominal hysterectomy,1
+Magnetic Resonance Imaging,1
+Concealed,1
+Socializing,1
+Disease,1
+growth aspects,1
+Knowledge acquisition,1
+Occult,1
+Elementary Schools,1
+carboxyl radical,1
+Shopping:-:Point in time:^Patient:-,1
+Pleasant,1
+CLNK gene,1
+Spiral Shape,1
+grandparent,1
+Monkeys,1
+GROGGY,1
+Purring,1
+Surgical repair,1
+Bosnia-Herzegovina,1
+Corset,1
+Engaged to be married,1
+Soap,1
+Billy,1
+powder physical state,1
+Major Depressive Disorder,1
+Silicon Dioxide,1
+Recent,1
+Rivotril,1
+Unload,1
+Seasonal Affective Disorder,1
+Clorox,1
+Constitutions,1
+Dependent - ability,1
+Dying Process,1
+Journalist,1
+And/Or,1
+austin,1
+Does squat (finding),1
+Review [Publication Type],1
+Stadium,1
+Round shape,1
+Non-Insulin-Dependent,1
+NOMO2 gene,1
+Wick - domestic product,1
+Amnesia,1
+Delta (difference),1
+slander,1
+Acne,1
+Zop,1
+Tooth Crowns,1
+Positive Finding,1
+Capacity,1
+Crayon,1
+Silk,1
+Report (document),1
+Milligram percent,1
+DCLRE1B gene,1
+Streams,1
+Coating (film),1
+Redundancy,1
+Rumination,1
+Shelter facility,1
+Minimum Inhibitory Concentration measurement,1
+Murderer,1
+Mormon,1
+Mouth swab,1
+Geometry,1
+Cumulative,1
+*Activity (kind of quantity),1
+Date Fruit,1
+Pumpkins,1
+Dependence,1
+Dewar (device),1
+Sideroxylon,1
+Hospital admission,1
+Quadrant,1
+Humanities,1
+salty,1
+Ani (bird),1
+Suffocated,1
+Magazine Device Component,1
+Non-Hodgkin,1
+Fruit,1
+Pair,1
+Division of Extramural Activities,1
+Document Completion - incomplete,1
+Packing (action),1
+Entity Name Use - License,1
+Pharmacotherapy,1
+Does run (finding),1
+injected substance,1
+Gender Status - Intact,1
+Guide Device Component,1
+Citrus,1
+Chronic depression,1
+Oral surgeon,1
+Products of the Arts,1
+Duplicate,1
+British,1
+London,1
+Partner in relationship,1
+strip medical device,1
+Lime Indian,1
+Lamp Device Component,1
+Doughnut,1
+Does jump,1
+Cutaneous hypersensitivity,1
+Generator Dosing Unit,1
+Mortality Vital Statistics,1
+Panic disorder with agoraphobia,1
+Charge type - Grant,1
+Boat (physical object),1
+SAV1 gene,1
+Sparingly (qualifier),1
+Thirsty,1
+KLLN gene,1
+CHAP protocol,1
+Desire for food,1
+Intellectual scale,1
+Gi,1
+Effectiveness,1
+Pap smear,1
+Ia <mammal>,1
+Include (action),1
+Prostitution,1
+Repeat Pattern,1
+TP63 gene,1
+Deposition,1
+Diamond SPL Shape,1
+Weapons,1
+INA gene,1
+Food Oil,1
+Evening,1
+Object Property,1
+Belt Device Component,1
+Sudden onset (attribute),1
+justify,1
+port wine,1
+Pear Preparation,1
+Basis - conceptual entity,1
+Advocate (person),1
+ST. JOHN'S WORT EXTRACT,1
+bitter,1
+Jasminum officinale,1
+romantic,1
+Memory observations,1
+NBL1 wt Allele,1
+Place of Birth,1
+Chest Pain,1
+Anthrax <bee fly genus>,1
+Weighing patient,1
+Oculodigitoesophagoduodenal syndrome,1
+Abdomen,1
+Dismiss,1
+film (biomedical),1
+Grade B,1
+Genus Paris,1
+student - Role Code,1
+Flare,1
+virtual - ActCode,1
+Self-harm,1
+Dayquil,1
+Plant Leaves,1
+Pero,1
+Herbal,1
+Oatmeal,1
+Abbreviated New Drug Application,1
+Seasickness,1
+Psychological reinforcement,1
+Homework,1
+Social Role,1
+N-Dimethyltryptamine,1
+Moderation,1
+Benin Republic,1
+Percent inhibition,1
+WAS wt Allele,1
+Elderly (population group),1
+Mirror Device Component,1
+Gas station,1
+rumors,1
+Korean race,1
+Dental Occlusion,1
+Alexa,1
+Social fear,1
+Flamin,1
+Equidae,1
+Babysitter,1
+Period (temporal qualifier),1
+Oxycodone measurement,1
+Apus apus,1
+appeal,1
+Breath Analyzer,1
+Hyperlink,1
+Orange juice,1
+Esophagus,1
+per day,1
+Graduation,1
+Mathematics,1
+A little bit,1
+majority,1
+Feeling relief,1
+Limited (extensiveness),1
+Accent,1
+Twisted,1
+Brainwashing,1
+Garcia <plant>,1
+Licensed - Location characteristic ID,1
+TIGD1 gene,1
+Allergic Reaction,1
+Valine,1
+Leia,1
+Tremor,1
+Lemon-flavored carbonated drink,1
+Codeine Oral Solution,1
+no,1
+Surrounding (qualifier value),1
+Flying body movement,1
+Inhale - dosing instruction imperative,1
+Does greet,1
+Kickbacks,1
+Blood group antibody i,1
+Guinea (geographic area),1
+SPRN gene,1
+cough syrup,1
+Obtain,1
+Putative Transmembrane Protein NMA,1
+Sus scrofa,1
+Restart,1
+Hierarchy,1
+Apple,1
+Cost-Benefit Analysis,1
+War,1
+Notifications,1
+Contraceptive coil,1
+Normalize,1
+Anita,1
+Exact (qualifier),1
+Karate,1
+Whining,1
+H/O: * NOS,1
+Interpreter,1
+Commit Lozenge,1
+Otologic Surgical Procedures,1
+Rail Device Component,1
+Commence,1
+Minority Groups,1
+Rattus norvegicus,1
+Jar Dosing Unit,1
+Clerk,1
+credibility,1
+Intermediate,1
+Specimen Source Codes - Boil,1
+Next appointment,1
+Approved,1
+Paradoxical,1
+DIABETIC,1
+Tolerance,1
+Skateboard,1
+Compensated,1
+Gas-X,1
+violet color,1
+Mentally Ill Persons,1
+Mentally Disabled Persons,1
+Information,1
+Coca,1
+Import,1
+Letter [Publication Type],1
+Thais (Population Group),1
+Cavern,1
+Pancreatitis Adverse Event,1
+Storm NOS,1
+arterial velocity waveform,1
+Receive,1
+Pet Animal,1
+Toxic effect,1
+Structure of ball of foot,1
+buying,1
+Tower,1
+Novocaine,1
+Entire nose,1
+Benazepril hydrochloride,1
+Blade - plant part,1
+Gingerbread,1
+Data,1
+Chocolate milk,1
+newly,1
+bleomycin/doxorubicin/mechlorethamine/methotrexate/vincristine,1
+Automotive Occupations,1
+KCNT2 gene,1
+Tap water,1
+Restaurants,1
+funerals,1
+Neonatal nurse,1
+Financial compensation,1
+temozolomide,1
+Father (person),1
+Apple juice,1
+Jeweller (general),1
+Antibiotics,1
+RID,1
+schedule V drugs,1
+dryers,1
+Toothbrush,1
+Does crawl (finding),1
+GRAP2 gene,1
+Chaplain,1
+flaxseed allergenic extract,1
+REGAIN,1
+Flint substance,1
+Stubbornness,1
+Death Certificates,1
+Not Applicable,1
+Personal status - Adopted,1
+Poly A,1
+and Limb Deformities,1
+Cough Adverse Event,1
+Knowledge,1
+Grooming,1
+Physical therapy,1
+Blood,1
+Razor,1
+Country,1
+Entire kidney,1
+DAD1P1 gene,1
+Architect,1
+Vagina,1
+Trainer relationship,1
+Extension,1
+Gentle,1
+Event Qualification - Dependency,1
+Mitochondrion-associated adherens complex location,1
+Seashells,1
+Undressed,1
+Difficult,1
+Nulev,1
+Substance Abuse Subtle Screening Inventory,1
+Bottom,1
+Genus Dives,1
+planetary,1
+Siren,1
+Generic Drugs,1
+Vitamin B Complex,1
+Pancreas,1
+Ravens,1
+Teens,1
+Structure of parenchyma of lung,1
+PANIC DISORDER 1,1
+Prescription Drug Abuse,1
+Sex Behavior,1
+Ethacrynic Acid,1
+Part of,1
+niece - RoleCode,1
+Scientist,1
+PCYT1A wt Allele,1
+Alaska,1
+Potter (general),1
+Filed,1
+Mature,1
+Mustard preparation,1
+Glues,1
+Gently,1
+Entire neck,1
+fascinate,1
+Official,1
+NLRC4 gene,1
+Jordan,1
+meaninglessness,1
+Epistaxis,1
+Blast (physical force),1
+BLNK gene,1
+Vegetables,1
+artificial lung expanding compound,1
+Vendors,1
+Entire head,1
+Rolaids,1
+-desis,1
+Processing Mode - Archive,1
+Defense,1
+Breathing Exercises,1
+Seal Device Component,1
+Nursing,1
+Result,1
+week,1
+Photographer,1
+Calculated (procedure),1
+Jeans,1
+Nanny,1
+size,1
+laziness,1
+Bent,1
+Radio,1
+Sixth floor,1
+Kind of quantity - Smell,1
+Vitality,1
+Western Sahara,1
+Hip region structure,1
+Locusts,1
+College student,1
+Piece Unit,1
+Oral contraception,1
+Sap - plant part,1
+Trailer,1
+contact person,1
+Bleeding ulcer,1
+Text Messaging,1
+Metals,1
+Drilling - action,1
+public safety,1
+Estimator,1
+Feminism,1
+Hematologic Tests,1
+impatience,1
+Toothache,1
+ADCY10 gene,1
+Hawks (bird),1
+Loss of motivation,1
+Horns in Sheep Locus,1
+Grade one rank,1
+Graphic designer,1
+Tacca leontopetaloides,1
+Binding action,1
+Weaver bird,1
+SPIN1 gene,1
+Butane,1
+Rhythm,1
+WIPF2 gene,1
+psychology qualifier,1
+chronic,1
+Homelessness,1
+Equus caballus,1
+Judgment,1
+Volleyball,1
+HRC gene,1
+Actor,1
+Sibling,1
+Dramamine,1
+Heartburn,1
+Milestone,1
+Iran,1
+Upward,1
+Dyspnea on exertion,1
+Russian language,1
+Spasm of back muscles,1
+Inequalities,1
+Coordinate on an axis or a grid,1
+biologic degeneration,1
+Cardiovascular System Findings Domain,1
+Elements,1
+Flush - RouteOfAdministration,1
+Femoral hypoplasia - unusual facies syndrome,1
+Routine,1
+Class 1,1
+Signal,1
+Stooping,1
+Surfing,1
+Patient Protection and Affordable Care Act,1
+Different,1
+Disconnection Medical Device Problem,1
+biomedical tube device,1
+Ramp,1
+Nail plate,1
+adventure,1
+Stuart Pharmaceuticals,1
+Recovery - ActInvoiceAdjudicationPaymentGroupCode,1
+Ovum,1
+Medium (Substance),1
+UNAWARE,1
+Hepatic Involvement,1
+Grizzly Bears,1
+Structure of left shoulder region,1
+Recovery - action,1
+Amber,1
+Podcasts,1
+Vagrans egista,1
+GABA Receptor,1
+Ethics,1
+Submitted,1
+Area,1
+Pharmaceutical error,1
+Ability to interact with others,1
+Sufficient,1
+% proof,1
+Florida,1
+Effective,1
+Degree or extent,1
+Device Display Device Component,1
+Imo (pharmacologic substance),1
+Potassium Ion,1
+Alternative,1
+Quercus,1
+Plant seeds,1
+Phobic anxiety disorder,1
+addicted to heroin,1
+Six Pack,1
+Low dose,1
+Unstable status,1
+Medication Allergy,1
+Shoulder,1
+Post office,1
+Pike fish,1
+Fastening (physical object),1
+Tolerability Study,1
+Physician:Identifier:Point in time:^Patient:Nominal,1
+debate,1
+Internal-External Locus of Control Scale,1
+emergent,1
+Back Pain,1
+anagrams,1
+High School Graduate,1
+Thunder,1
+Inhaler Dosing Unit,1
+scenario,1
+Deterioration of status,1
+Infrequent,1
+Translucent,1
+Melancholia,1
+Gain,1
+BIRC6 gene,1
+Resources,1
+Regular,1
+Cordia subcordata,1
+Involvement with,1
+Poodle superbreed,1
+Coconut Oil,1
+lecturer,1
+Jay,1
+Cellophane,1
+Genus Felis,1
+Align,1
+US gallon (qualifier value),1
+Robitussin,1
+Synthetic drug,1
+Crisis,1
+Relieved (qualifier value),1
+Memphis,1
+Mobile,1
+Caffeinated soft drinks,1
+eye allergy,1
+Alternative Medicine,1
+Anti-Histamine,1
+Astronotus ocellatus,1
+Gs,1
+Yal,1
+Forward,1
+gatorade,1
+Kilogram,1
+Marathon composite resin,1
+Pajama trousers,1
+Nadia - zebrafish,1
+Arkansas Language,1
+Hot flushes,1
+Formation,1
+Cocos (plant),1
+Division (surgical procedure),1
+Legitimacy,1
+Master of Public Health,1
+PRPF6 gene,1
+Diagnosis Study,1
+exhaust,1
+weird feeling,1
+TWEAK questionnaire,1
+documentary,1
+Firm,1
+SIKE1 gene,1
+ALYREF gene,1
+Benjamin,1
+Gender,1
+New Jersey,1
+Simultaneous,1
+Diaper,1
+Food Stamps,1
+calorie unit of energy,1
+floor (object),1
+pentaerythrityl triacrylate,1
+FAD,1
+Cotton Candy Flavor,1
+This,1
+Entire left lower leg,1
+Five per Second,1
+routine,1
+Patient Discharge,1
+Tosylarginine Methyl Ester,1
+Treatment Plan,1
+Hill,1
+Sailing,1
+combination of objects,1
+excluding neck,1
+Device Plate,1
+gang,1
+Sorting (Cognition),1
+Consciousness clear,1
+Thread Device Component,1
+Appointments,1
+Off,1
+Avoidance,1
+Arabia,1
+Subfamily Erinaceinae,1
+Second Suffix,1
+alone - group size,1
+Psychology,1
+Excitation,1
+daisy,1
+Producer,1
+MARCH1 gene,1
+Tulip plant,1
+liter,1
+Request - action,1
+Illiteracy,1
+Pressure- physical agent,1
+Genes,1
+disclaimer,1
+Physical restraint equipment (device),1
+Amphetamine,1
+Empowered,1
+armenians,1
+Feeling powerless,1
+Hereditary,1
+Youth,1
+moonshine,1
+Brassiere,1
+Sheet - faceted volume,1
+Raisin Flavor,1
+Pad Mass,1
+Hot Temperature,1
+Trial Title,1
+Generic Role,1
+NCI Concept Atom,1
+Nickname,1
+paper bags,1
+Variable (uniformity),1
+SMDT1 gene,1
+Roman Numeral III,1
+Magnetoencephalography,1
+Unlimited - Amount type,1
+Regulation,1
+DNA Library,1
+Dietary Arsenic,1
+Suicide Attempt Incident Code,1
+Shut down,1
+Safety,1
+Hard drug,1
+Skin,1
+Djibouti,1
+2'-deoxyuridylic acid,1
+Dolphins - mammal,1
+aunt - RoleCode,1
+Guide device,1
+Panthera leo,1
+Bibliographic Reference,1
+flavor perception,1
+Junior,1
+passport,1
+Tee Device Component,1
+Eyebrow structure,1
+Capra hircus,1
+SNAI2 gene,1
+Honest,1
+Weepiness,1
+Munchausen Syndrome by Proxy,1
+Bone structure of rib,1
+Science of Statistics,1
+Central Minus,1
+Packaging Drum,1
+Aim (idea),1
+Triplicate,1
+Earth (Planet),1
+felony,1
+Site,1
+Syringe Caps,1
+Parenting behavior,1
+concise,1
+Propane,1
+Chamomile Tea,1
+Drug Allergy,1
+Keyboard Typing,1
+PRY gene,1
+Laboratory culture,1
+Aliens,1
+Pitch (deviation),1
+Haldol,1
+gluten free - ActCode,1
+Lifting,1
+Curiosity,1
+Cone (plant),1
+Tub Dosing Unit,1
+Kinked Medical Device Material,1
+Miami race,1
+Immunity,1
+Ingredient,1
+Primary,1
+twenty twenty,1
+Earthquakes,1
+Brandy,1
+Table - furniture,1
+Retrograde direction,1
+Thumb structure,1
+replaces - RoleLinkType,1
+time out,1
+Jones,1
+Filter (function),1
+Upstairs,1
+Infusion procedures,1
+body substance,1
+Holly,1
+peer,1
+bad mood,1
+Shoe shop,1
+Vitamin K [EPC],1
+Mint extract,1
+Drunk driving,1
+Aquarius Genus,1
+Market,1
+Grandmother,1
+Manufacture,1
+trends qualifier,1
+Vocal,1
+drug dealer,1
+Rotated,1
+Antiemetics,1
+Individual,1
+retailing,1
+Organ Measurement Domain,1
+Collie,1
+Automated (qualifier value),1
+Hash Value,1
+Sidewalk,1
+Factory,1
+MJ,1
+Blinking,1
+Jittery,1
+Behavioral tic,1
+Operative procedure on shoulder,1
+FUK gene,1
+Proteins,1
+Level of stress,1
+geographic population,1
+ACSBG1 gene,1
+Ritual compulsion,1
+Cytotoxic T-Lymphocytes,1
+Streak,1
+New Age,1
+Feathers,1
+Family tension,1
+Illness (finding),1
+Entire chin,1
+Intraocular Lymphoma,1
+Exhaustion,1
+Leakage Associated with Medical Device,1
+Philosophy,1
+Does turn (finding),1
+by telephone,1
+Sample Mean,1
+Immune,1
+Popcorn,1
+Cheesecake,1
+Football game,1
+Virus Diseases,1
+Legal system,1
+Consecutive,1
+ST Waveform Analysis,1
+german race,1
+Blood Circulation,1
+Peanuts - dietary,1
+ALLC gene,1
+disrespect,1
+Buyer,1
+Camelus dromedarius,1
+Night pain,1
+Polypharmacy (finding),1
+Medical pins,1
+heart rate,1
+cold turkey,1
+Hold (action),1
+Poison Risk,1
+Fuzzy head,1
+Racism,1
+Diaries,1
+Montana <invertebrate>,1
+Toothbrushing,1
+SMO gene,1
+rap music,1
+Gram per Deciliter,1
+meditation,1
+sperm cell,1
+Disability,1
+Dental,1
+Herpes,1
+Keeling - action,1
+tuck,1
+Message,1
+Asthma,1
+Civil war,1
+Ever told by doctor or nurse that you have high blood pressure:Finding:Point in time:^Patient:Ordinal,1
+Golf,1
+Fallon Indians,1
+Colorado,1
+Boxer dog,1
+Upon - dosing instruction fragment,1
+steering wheel,1
+Overactive,1
+Sleepinal,1
+Urinalysis,1
+Industry,1
+trivalent influenza vaccine,1
+Act Relationship Type - occurrence,1
+SGTA gene,1
+Mental Recall,1
+Anti-Diarrhea,1
+Bible,1
+Login Name,1
+Cellular Phone,1
+TNFSF13B gene,1
+Gingiva,1
+Time Management,1
+Image,1
+C-Circle,1
+House mice,1
+peace,1
+Journal,1
+Manufactured Baseball,1
+Type of bridge device,1
+cardiac symptom,1
+SUCLA2 gene,1
+Strap device,1
+polygraphy,1
+Pin Device Component,1
+Kidney,1
+statine,1
+Catabolism,1
+Soccer,1
+Unlock,1
+Motherhood,1
+Rapidly,1
+Cola,1
+Procedure (set of actions),1
+Short Value,1
+NPDC1 gene,1
+Canis lupus,1
+Transition Rule,1
+PIGA wt Allele,1
+2-toluenesulfonamide,1
+Model,1
+Practitioners Engaged in Applied Research and Learning Network,1
+Screw Device Component,1
+Type 1,1
+Corporation,1
+Pipe (object),1
+Therapeutic tactile stimulation,1
+Lanthanum,1
+TRICHOTILLOMANIA (allelic variant),1
+Light (weight),1
+Experience of time,1
+Chloroform,1
+Bullying,1
+HOOS,1
+Rohypnol,1
+Fear of flying,1
+KIF22 gene,1
+Herb,1
+Utah,1
+Child neglect (event),1
+Fudge Food,1
+Divide,1
+Arabic numeral 0,1
+Hyperactive behavior,1
+United States,1
+Ghettos,1
+Mechanism Component of Device,1
+In Blood,1
+Skull Fractures,1
+Act Relationship Checkpoint - exit,1
+RBM12 gene,1
+Aves,1
+LiLo,1
+Opium,1
+Antihistamines,1
+Step ups,1
+blank,1
+Rome,1
+Medical Device Failure or Malfunction,1
+Sedated state,1
+Priming,1
+Enabling,1
+Concerta,1
+Skin Specimen,1

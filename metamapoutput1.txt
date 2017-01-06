@@ -1,0 +1,447 @@
+: null
+yervoy: null
+keflex: null
+victoza: null
+buspirone: null
+imbruvica: null
+toprol: null
+losartan: null
+fioricet: null
+xalkori: null
+ibuprofen: {Take=1, Computer Job=1, Iodides=1, Amaze=1, Citrus limon plant=1, Now (temporal qualifier)=1, Stop (qualifier value)=1, GORAB gene=1}
+celebrex: null
+topamax: {Helping Behavior=1, Adverse effects=1}
+atorvastatin: null
+rocephin: null
+bydureon: null
+macrobid: null
+zoloft: null
+jakafi: null
+herceptin: null
+dulera: null
+aleve: null
+diazepam: null
+xiidra: null
+kadcyla: null
+ramipril: null
+venlafaxine: null
+butrans: null
+juxtapid: null
+allopurinol: null
+stiolto respimat: null
+zestoretic: null
+lansoprazole: null
+k-dur: null
+metformin: null
+latuda: null
+xarelto: null
+gardasil: null
+vistaril: null
+flomax: null
+revlimid: null
+glucotrol: null
+triamcinolone: null
+triamterene: null
+invokamet: null
+zemplar: null
+focalin: null
+tradjenta: null
+cetirizine: null
+vyvanse: {Take=1, ToDay brand=1, Sleep=1, Iodides=1, Now (temporal qualifier)=1, Right=1, Life=1}
+jentadueto: null
+fentanyl: null
+motrin: null
+glipizide: null
+sensipar: null
+uloric: null
+clonazepam: null
+opdivo: null
+citalopram: null
+methadone: {Extrinsic=1, TNFRSF10C gene=1, Hospitals=1, creatine kinase activity=1, Emotions=1, GORAB gene=1}
+niacin: null
+ondansetron: null
+detrol: null
+myrbetriq: null
+metronidazole: null
+prednisone: null
+norco: null
+ditropan: null
+janumet: null
+brovana: null
+zometa: null
+etodolac: null
+lyrica: null
+oxycontin: null
+reglan: null
+keppra: null
+invokana: null
+zofran: null
+erythromycin: null
+ativan: null
+zocor: null
+kerydin: null
+exelon: null
+endocet: null
+percocet: null
+rituxan: null
+farxiga: null
+hytrin: null
+valium: {Take=1, Eating=1, Tobacco smoke=1, Oral region=1, Sleep=1, Iodides=1, Retarded=1, Whisky=1, Femoral hypoplasia - unusual facies syndrome=1, To=1, Hydroxide Ion=1, Name=1}
+vytorin: null
+glatiramer: null
+eliquis: null
+terazosin: null
+doxazosin: null
+oxybutynin: null
+metoprolol: null
+oseltamivir: null
+ofev: null
+tamsulosin: null
+estrace: null
+tegretol: null
+intelence: null
+cephalexin: null
+guaifenex: null
+risperidone: null
+lexapro: null
+nasonex: null
+coreg: null
+januvia: null
+zyrtec: null
+hydroxychloroquine: null
+vancomycin: null
+epogen: null
+dilantin: null
+cialis: null
+plavix: null
+sertraline: null
+vimpat: null
+nortriptyline: null
+pepcid: null
+cipro: null
+jublia: null
+demerol: null
+prolia: null
+eligard: null
+lumigan: null
+juvederm: null
+breo ellipta: null
+xtandi: null
+guaifenesin: null
+kenalog: null
+intuniv: null
+kineret: null
+singulair: null
+belsomra: null
+lasix: null
+meloxicam: null
+biaxin: null
+qnasl: null
+xyzal: null
+kazano: null
+restasis: null
+xopenex: null
+estradiol: null
+amitriptyline: null
+nifedipine: null
+trazodone: null
+methylprednisolone: null
+ritalin: {Take=1, Make - Instruction Imperative=1, Stop (qualifier value)=1, Emotions=1}
+ferrous sulfate: null
+suboxone: null
+wilate: null
+bactrim: null
+flonase: null
+xeomin: null
+acyclovir: null
+prevacid: null
+mucinex: null
+iressa: null
+albuterol: null
+yosprala: null
+effexor: null
+spironolactone: null
+epipen: null
+isentress: null
+voltaren gel: null
+genvoya: null
+travatan: null
+omnicef: null
+zosyn: null
+humulin: null
+halaven: null
+ranexa: null
+temazepam: null
+namenda: null
+dyazide: null
+verapamil: null
+nasacort: null
+warfarin: null
+ortho tri-cyclen: null
+zantac: null
+injectafer: null
+skelaxin: null
+humulin n: null
+glyburide: null
+harvoni: null
+carvedilol: null
+glucophage: null
+gilenya: {Drop British=1, Make - Instruction Imperative=1, Leukocytes=1}
+premarin: null
+promethazine: {Person Name=1, Iodides=2, Call (Instruction)=1, U2AF1 wt Allele=1, KCNIP3 gene=1}
+geodon: null
+kadian: null
+metoclopramide: null
+atenolol: null
+prozac: {Take=1, Miss - Title=1, Iodides=1, Shame=1}
+claritin: null
+gammagard: null
+saphris: null
+clindamycin: null
+dexamethasone: null
+meclizine: {M NOS ANTIBODY=1, Iodides=1, Vision=1}
+ultresa: null
+jalyn: {game=1, Iodides=1, Precursor B-cell lymphoblastic leukemia=1, Call (Instruction)=1, Never (frequency)=1, Time=2, Ball Device Component=1, Send (transmission)=1}
+kalydeco: null
+jetrea: null
+xanax xr: null
+flexeril: null
+niaspan: null
+gemzar: null
+nucynta: null
+remicade: null
+valacyclovir: null
+alprazolam: null
+opana: {Gambling=1, Iodides=1, Time=1, Blame=1, per year=1, Ghanaians=1}
+pravastatin: null
+krill oil: null
+opsumit: null
+doxycycline: null
+osphena: null
+benadryl: {Take=1, History of allergies=1, FACIAL RASH=1, Urticaria=1, Exanthema=1, Skin=1, Canis familiaris=1, Face=1, Communicable Diseases=1, Dermatitis=1}
+kaletra: null
+furosemide: null
+tamoxifen: null
+ranitidine: null
+inderal: null
+mobic: null
+xigduo xr: null
+klonopin: null
+cyclobenzaprine: null
+inlyta: null
+ultane: null
+ezetimibe: null
+zolpidem: null
+uroxatral: null
+zithromax: null
+fenofibrate: null
+bactroban: null
+entresto: null
+kyprolis: null
+protonix: null
+evista: null
+insulin: {Out (direction)=1, Positioning Attribute=1, LOXL1 gene=1, preference=1, S prime=1, Run action=1, forgetting=1, Inject - dosing instruction imperative=1, Growth Factor=1, Changing=1, To=1, Face=1, Downy hair=1}
+vasotec: null
+spiriva: null
+linzess: null
+plaquenil: null
+xgeva: null
+brilinta: null
+implanon: null
+morphine: {Patient need for (contextual qualifier)=1, Take=1, slight fever=1, Afternoon=1, Iodides=2, Twin sibling (person)=1, CTNNBL1 gene=1, Infant=1, Send (transmission)=1}
+paxil: {Probably=1, Difficulty=1, Make - Instruction Imperative=1, Etiology aspects=1, Catatonia=1, neodymium pyrocatechin disulfonate=1, Decision=1}
+zestril: null
+trileptal: null
+ultracet: null
+norvasc: null
+aspirin: null
+renvela: null
+voltaren: null
+wellbutrin: null
+havrix: null
+rapaflo: null
+keytruda: null
+hyzaar: null
+incruse ellipta: null
+paroxetine: null
+levoxyl: null
+excedrin: {Take=1, Headache=1, Iodides=1, Curiosity=1, Blood group antibody I=1, Two=1, Caffeine=1}
+horizant: null
+diphenhydramine: null
+zyprexa: null
+amoxicillin: {Onset of illness=1, Take=1, capsule (pharmacologic)=1, Needs=1, Bronchitis=1, Pharmacist=1, To=1, Vancomycin=1}
+septra: null
+fosamax: null
+xeljanz: null
+gemfibrozil: null
+hydroxyzine: null
+amlodipine: null
+heparin: null
+imodium: {Incision and drainage=1, Vision=1, Never (frequency)=1, To=1, day=1, Thinking, function=1}
+levaquin: null
+methocarbamol: null
+symbicort: null
+cymbalta: null
+imitrex: null
+lupron: null
+hysingla er: null
+nicotine: {Withdrawal (dysfunction)=1, Female dog=1, Make - Instruction Imperative=1, Addictive Behavior=1}
+enalapril: null
+digoxin: null
+dextromethorphan: null
+acetaminophen: null
+requip: null
+garcinia cambogia: null
+onglyza: null
+phenergan: null
+zytiga: null
+diltiazem: null
+flovent: {Play=1, Unknown=1}
+methotrexate: null
+faslodex: null
+hcg: {Follow=1}
+nitrofurantoin: null
+forteo: null
+gralise: null
+onfi: null
+oxycodone: null
+folic acid: null
+glucovance: null
+mirtazapine: null
+jardiance: null
+ambien: {Entity=1, Bad=1, Make - Instruction Imperative=2, Hate=1}
+neulasta: null
+levothyroxine: null
+boniva: null
+diovan: null
+naloxone: null
+melatonin: {Take=5, DOPE=1, Mechanical force=1, Give - dosing instruction imperative=1, Tobacco smoke=1, Iodides=3, Human body=1, Always (frequency)=1, Somalia=1, GORAB gene=1, Bowling (activity)=1, Venezuela=1, Life=1, Triplicate=1, To=1}
+nexium: null
+famotidine: null
+tizanidine: null
+vesicare: null
+abilify: null
+neurontin: null
+ulesfia: null
+juvisync: null
+propranolol: null
+lidoderm: null
+invega: null
+lovenox: {Iodides=1, Vision=1, Time=1, Thinking, function=1}
+ventolin: null
+humalog: null
+methylphenidate: null
+xenazine: null
+cardizem: null
+gilotrif: null
+toradol: null
+clonidine: null
+tramadol: {Punch=1, Hearing=1, Iodides=1}
+azithromycin: null
+xeloda: null
+xyrem: null
+baclofen: null
+qsymia: null
+coumadin: null
+viibryd: null
+uptravi: null
+celexa: null
+kapvay: null
+hydrochlorothiazide: null
+vicodin: null
+klor-con: null
+diclofenac: {Take=1, M NOS ANTIBODY=1, Give - dosing instruction imperative=1, Acetaminophen / Codeine=1, Negation=1, eligible=1, Needs=1, Blood group antibody I=1, peripheral blood=1, To=1}
+trintellix: null
+cozaar: null
+humira: null
+elavil: null
+vitamin e: null
+augmentin: {Etiology aspects=1, Sodium Cation=1}
+risperdal: {Probably=1, etc.=1, Clozaril=1}
+miralax: null
+naproxen: {Young=1, Iodides=1, Persons=1, Vision=1, Respiratory Domain=1}
+flagyl: null
+xalatan: null
+fluoxetine: null
+zovirax: {Somalia=1, utilization qualifier=1, Emotions=1}
+xanax: {Take=3, Moon=1, Caucasoid Race=1, One=1, Somalia=1, Personal appearance=1, Cool=1, RGMB gene=1, Cant=1, Binge eating disorder=1, PPL gene=1, Thinking, function=1, Urine=2, wake ups=1, Iodides=3, African swine fever=1, LOXL1 gene=1, hatching=1, Stress=1, Handle=1, Singular=1, repulsion=1, Blue color=1, Sleep=1, Calculi=1, Females=1, Affect (mental function)=1}
+ibrance: null
+relafen: null
+xifaxan: null
+diflucan: null
+robaxin: null
+zetia: null
+simvastatin: null
+uceris: null
+benicar: null
+sildenafil: null
+hydrocodone: {Department of Energy=1, Well=1, Marijuana Abuse=1}
+orencia: null
+zostavax: null
+xofigo: null
+depakote: null
+gabapentin: null
+bystolic: null
+adderall: {Take=2, Thallium=1, Eating=1, ToDay brand=1, Monster (disorder)=1, Iodides=1, Grade one rank=1, IGDCC4 gene=1, Make - Instruction Imperative=1, Always (frequency)=1, Night time=1, Drink (dietary substance)=1, Able (finding)=1, Entire stomach=1, Half=1, Male child=1, Last=1, Blood group antigen D=1, Not at all=1, Work=1, Guyana=1, Washington state=1, Then=1, Good=1}
+duloxetine: null
+pregabalin: null
+gleevec: null
+duoneb: null
+aricept: null
+orlistat: null
+potassium chloride: null
+crestor: null
+seroquel: null
+pradaxa: null
+ultram: null
+lisinopril: null
+tricor: null
+nuvigil: null
+dilaudid: {Give - dosing instruction imperative=1, Iodides=1, DELIVER (Dietary Supplement)=1, Washington state=1}
+jevtana: null
+kombiglyze xr: null
+lamictal: null
+valtrex: {Take=1, See=1, Iodides=1, Occur (action)=1, Question (inquiry)=1, Open=1}
+reclast: null
+tylenol: {Economics=1, Replace=1, Give - dosing instruction imperative=1, Pills=1, Iodides=1, Empathy=1, Doctor - Title=1, Home environment=1, event cycle=1, Head - Component of Device=1, Device Component System=1, CYTIP gene=1, Migraine Disorders=1, Vision=1, Communication=1}
+imdur: null
+ziac: null
+lorazepam: null
+synthroid: null
+zyvox: null
+isosorbide: null
+otezla: {Guyana=1, Risk=1}
+enbrel: null
+quillivant xr: null
+qutenza: null
+hizentra: null
+bupropion: null
+buspar: null
+novolog: null
+xolair: null
+omeprazole: {Patient need for (contextual qualifier)=1, Badgers=1, Frequent=1}
+lipitor: null
+hetlioz: null
+glyxambi: null
+utibron neohaler: null
+femara: null
+amiodarone: null
+zanaflex: null
+pravachol: null
+bisoprolol: null
+xenical: null
+savella: null
+remeron: null
+orthovisc: null
+strattera: null
+oxytrol: null
+kapidex: null
+effient: null
+restoril: null
+exforge: null
+kytril: null
+loratadine: null
+naprosyn: null
+yondelis: null
+prilosec: null
+ciprofloxacin: null
